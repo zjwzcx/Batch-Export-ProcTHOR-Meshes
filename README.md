@@ -105,3 +105,65 @@ If you use our codebase, dataset and benchmark, please kindly cite the original 
   booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 }
 ```
+```bibtex
+@article{ai2thor,
+  author={Eric Kolve and Roozbeh Mottaghi and Winson Han and
+          Eli VanderBilt and Luca Weihs and Alvaro Herrasti and
+          Daniel Gordon and Yuke Zhu and Abhinav Gupta and
+          Ali Farhadi},
+  title={{AI2-THOR: An Interactive 3D Environment for Visual AI}},
+  journal={arXiv},
+  year={2017}
+}
+```
+```bibtex
+@inproceedings{rudin2022learning,
+  title={Learning to walk in minutes using massively parallel deep reinforcement learning},
+  author={Rudin, Nikita and Hoeller, David and Reist, Philipp and Hutter, Marco},
+  booktitle={Conference on Robot Learning},
+  pages={91--100},
+  year={2022},
+  organization={PMLR}
+}
+```
+```bibtex
+@inproceedings{procthor,
+  author={Matt Deitke and Eli VanderBilt and Alvaro Herrasti and
+          Luca Weihs and Jordi Salvador and Kiana Ehsani and
+          Winson Han and Eric Kolve and Ali Farhadi and
+          Aniruddha Kembhavi and Roozbeh Mottaghi},
+  title={{ProcTHOR: Large-Scale Embodied AI Using Procedural Generation}},
+  booktitle={NeurIPS},
+  year={2022},
+  note={Outstanding Paper Award}
+}
+```
+```bibtex
+@inproceedings{xiazamirhe2018gibsonenv,
+  title={Gibson Env: real-world perception for embodied agents},
+  author={Xia, Fei and R. Zamir, Amir and He, Zhi-Yang and Sax, Alexander and Malik, Jitendra and Savarese, Silvio},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2018 IEEE Conference on},
+  year={2018},
+  organization={IEEE}
+}
+```
+```bibtex
+@article{khanna2023hssd,
+    author={Khanna*, Mukul and Mao*, Yongsen and Jiang, Hanxiao and Haresh, Sanjay and Shacklett, Brennan and Batra, Dhruv and Clegg, Alexander and Undersander, Eric and Chang, Angel X. and Savva, Manolis},
+    title={{Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation}},
+    journal={arXiv preprint},
+    year={2023},
+    eprint={2306.11290},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
+```bibtex
+@article{Matterport3D,
+  title={Matterport3D: Learning from RGB-D Data in Indoor Environments},
+  author={Chang, Angel and Dai, Angela and Funkhouser, Thomas and Halber, Maciej and Niessner, Matthias and Savva, Manolis and Song, Shuran and Zeng, Andy and Zhang, Yinda},
+  journal={International Conference on 3D Vision (3DV)},
+  year={2017}
+}
+```
+</details>
